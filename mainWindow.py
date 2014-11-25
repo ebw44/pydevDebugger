@@ -1,7 +1,5 @@
 '''
 Created on Sep 9, 2014
-
-@author: davy.moyon
 '''
 from __future__ import division
 import sys
